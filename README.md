@@ -5,10 +5,9 @@
 ### Install
 To Install it:
 
-    $ pip install PyTeleBot
+    $ pip install PyFarsi-TBot
 	or
-	$ pip3 install PyTeleBot
-
+	$ pip3 install PyFarsi-TBot
 ### Usage
 
 ```python
